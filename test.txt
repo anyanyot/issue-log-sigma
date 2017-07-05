@@ -1,7 +1,1 @@
 hai nama saya lutfi
-<<<<<<< HEAD
-hahaha
-lol
-=======
-hahaha
->>>>>>> 79ba51fd37440f7e0b47ab3bcf41f5bd31f2bfe5
